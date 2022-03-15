@@ -24,6 +24,7 @@ ipywidgets = "^7"
 widgetsnbextension = "^3"
 kaleido = "0.2.1"
 fpdf = "*"
+jupyter = "^1.0.0"
 
 [tool.poetry.dev-dependencies]
 
