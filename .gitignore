@@ -154,4 +154,5 @@ cython_debug/
 # Custom
 nohup.out
 *.html
-mlpipe
+AutoML-Pipe
+EHRoes
